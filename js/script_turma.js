@@ -1,4 +1,4 @@
-// Aplicação versão 1.0.0 31/03/2024
+// Aplicação versão 2.0.0 01/05/2024
 
 function selecionarTurma(turma) {
     alert("Turma " + turma + " selecionada!");

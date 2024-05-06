@@ -1,5 +1,4 @@
-/*// Aplicação versão 1.0.0 31/03/2024 */
-
+/* Aplicação versão 2.0.0 01/05/2024 . */ 
 /* Reset de estilos */
 *,
 *:before,
@@ -97,6 +96,11 @@ h1:after {
 
 .button:hover {
     background-color: #fdb12c;
+}
+
+.button.selected {
+    background-color: #fdb12c; /* Cor de fundo para indicar seleção */
+    color: #fff; /* Cor do texto quando selecionado */
 }
 
 /* Estilos dos botões de submit */

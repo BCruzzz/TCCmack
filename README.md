@@ -6,8 +6,11 @@
 3. Para executar a aplicação internamente basta acessar o aplicativo index.html através do browser.
 NOTA: Para acesso a aplicação na integra, o usuário pode acessar através do link "https://bcruzzz.github.io/TCCmack/"
 4. Informações para acesso:
-      User: Professor
-      Senha: 123456
+
+   User: Professor
+   
+   Senha: 123456
       
-      User: Administrador
-      Senha: 123456
+   User: Administrador
+   
+   Senha: 123456
